@@ -8,18 +8,16 @@ const AboutDetails = () => {
 
             <ItemLayout className="col-span-full lg:col-span-8 row-span-2 flex-col items-start">
           <h2 className="text-xl md:text-2xl text-left w-full capitalize text-accent">
-            Architect of Enchantment
+            Architect of Intelligent Systems
           </h2>
           <p className="font-light  text-xs sm:text-sm md:text-base">
-            My journey in web development is powered by an array of mystical
-            tools and languages, with JavaScript casting the core of my
-            enchantments. I wield frameworks like React.js and Next.js with
-            precision, crafting seamless portals (websites) that connect realms
-            (users) across the digital universe. The ancient arts of the
-            Jamstack empower me to create fast, secure, and dynamic experiences,
-            while my design skills ensure every creation is not only functional
-            but visually captivating. Join me as I continue to explore new
-            spells and technologies to shape the future of the web.
+          My journey in AI and machine learning is fueled by a powerful toolkit of algorithms and models, 
+          with Python forming the backbone of my creations. I harness frameworks like TensorFlow and PyTorch 
+          with precision, building intelligent systems that transform data into meaningful insights. 
+          The cutting-edge advancements in deep learning empower me to develop accurate and scalable 
+          solutions, while my problem-solving approach ensures each project is innovative and 
+          impactful. Join me as I continue to explore new techniques and technologies to push the boundaries 
+          of AI and shape the future of intelligent systems.
           </p>
         </ItemLayout>
         <ItemLayout className={"col-span-full row-span-2 xs:col-span-6 lg:col-span-4 text-accent"}>
