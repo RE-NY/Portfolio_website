@@ -45,7 +45,7 @@ export default function Home() {
               Hi! I'm <span className="text-[#915eff]">Rehan.</span>
             </div>
             <div className="change-text">
-              <h3>And I'm&nbsp;</h3>
+              <h3>and I'm&nbsp;</h3>
               <h3>
                 <span className="word text-[#915eff] text-[32px]">DeepLearning&nbsp;Enthusiast</span>
                 <span className="word text-[#915eff] text-[32px]">AI/ML&nbsp;Enthusiast</span>

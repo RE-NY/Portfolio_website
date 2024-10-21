@@ -1,5 +1,5 @@
 import Image from "next/image";
-import bg from "../../../../public/background/Wormhole_1_bgImg.jpg";
+import bg from "../../../../public/background/experience-bg.jpg";
 import Experience from "@/components/Experience";
 
 
