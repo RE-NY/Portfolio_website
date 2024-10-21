@@ -1,0 +1,79 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 27 27 27;
+    --foreground: 225 225 225;
+    --muted: 115 115 115;
+    --accent: 254 254 91; /* #FEFE5B */
+    --hover-color: #12f7ff; /* Color for animated letters */
+  }
+
+  .home {
+    min-height: 100vh;
+    height: 100%;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    align-items: left;
+    grid-gap: 4em;
+  }
+
+  .change-text {
+    font-size: 2rem;
+    font-weight: 600;
+  }
+
+  .change-text h3 {
+    display: inline-flex;
+    margin: 0;
+    vertical-align: top;
+  }
+
+  .change-text h3 .word {
+    position: absolute;
+    display: flex;
+    opacity: 0;
+  }
+
+  .change-text h3 .word .letter {
+    transform-origin: center center 25px;
+  }
+
+  .change-text h3 .word .letter.out {
+    transform: rotateX(90deg);
+    transition: 0.32s cubic-bezier(0.6, 0, 0.7, 0.2);
+  }
+
+  .change-text h3 .word .letter.in {
+    transition: 0.38s ease;
+  }
+
+  .change-text h3 .word .letter.behind {
+    transform: rotateX(-90deg);
+  }
+
+  .home-content {
+    max-width: 600px;
+  }
+
+  .home-content.logo {
+    font-size: 164px;
+    font-weight: 700;
+    letter-spacing: 1px;
+  }
+}  
+
+
+@layer utilities {
+  .pause {
+    animation-play-state: paused;
+  }
+
+  .custom-bg {
+    @apply bg-background/20 border border-accent/30 border-solid backdrop-blur-[6px] 
+    shadow-glass-inset hover:shadow-glass-sm;
+  }
+}
