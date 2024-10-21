@@ -27,42 +27,34 @@ export const CertificationsData = [
   {
     id: 1,
     name: "Machine Learning Speacialization",
-    description: "",
-    date: "2022-08-15",
-    demoLink: "https://ecotracker.example.com",
+    description: "machine learning.",
+    date: "2023-09-21",
+    demoLink: "https://coursera.org/share/ac9b930a6253ecdfa694a45861411b69",
     imageUrl: "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/3a/9d2a7af297483a845340bcfbac6f1e/MLS.course-banners-01_Course-Logo-.png?auto=format%2Ccompress%2C%20enhance&dpr=2&w=265&h=204&fit=crop&q=50"
   },
   {
     id: 2,
     name: "Deep Learning Specialization",
-    description: "",
-    date: "2022-08-15",
-    demoLink: "https://ecotracker.example.com",
+    description: "Deep learning",
+    date: "2022-10-23",
+    demoLink: "https://coursera.org/share/aec26728bce8f6f3625ba10e32109a31",
     imageUrl: "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/a4/079d5e7c7b45ac9107f22bfcfeab91/Specialization-logo.png?auto=format%2Ccompress%2C%20enhance&dpr=2&w=265&h=204&fit=crop&q=50"
   },
   {
     id: 3,
-    name: "EcoTracker",
-    description: "Track your carbon footprint",
-    date: "2022-08-15",
-    demoLink: "https://ecotracker.example.com",
-    imageUrl: ""
+    name: "Reinforcement Learning Specialization",
+    description: "Fundamentals and beyond basice of RL.",
+    date: "2023-12-03",
+    demoLink: "https://coursera.org/share/36d02d7f288076a4ea55e6d9935ff2b6",
+    imageUrl: "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/28/7b2be14eff433f94ce9f55e8b8bd99/square-graphic-course-1.jpg"
   },
   {
     id: 4,
-    name: "EcoTracker",
-    description: "Track your carbon footprint",
-    date: "2022-08-15",
-    demoLink: "https://ecotracker.example.com",
-    imageUrl: ""
-  },
-  {
-    id: 5,
-    name: "EcoTracker",
-    description: "Track your carbon footprint",
-    date: "2022-08-15",
-    demoLink: "https://ecotracker.example.com",
-    imageUrl: ""
+    name: "Data Structures and Algorithms",
+    description: "Learned algorithms.",
+    date: "2022-12-07",
+    demoLink: "https://coursera.org/share/7bfca48ebab45e43d93af38f35514db7",
+    imageUrl: "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/fb/434400d9ac11e5afbfa359f34ae5f0/logo3.png"
   },
 ];
 
