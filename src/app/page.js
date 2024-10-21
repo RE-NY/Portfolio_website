@@ -53,10 +53,12 @@ export default function Home() {
               </h3>
             </div>
             <p className='{`${styles.heroSubText} mt-2 text-white`}'>
-              Web designer and AI/ML Enthusiast. I am constantly <br></br>
-              learning new things.I am constantly learning new things.<br></br>
-              I am constantly learning new things.<br></br>
-              I am constantly learning new things.
+            Welcome to my portfolio! I'm passionate about leveraging<br></br> 
+            AI, machine learning, and deep learning to solve complex<br></br> 
+            problems, while also bringing a solid foundation in<br></br> 
+            software engineering and front-end development.<br></br> 
+            Explore my projects to discover how I merge<br></br> 
+            technology to deliver impactful solutions.
             </p>
           </div>
         </section>
