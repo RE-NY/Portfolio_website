@@ -23,7 +23,7 @@ export const getIcon = (icon) => {
             return <NotebookText className='w-full h-auto' strokeWidth={1.5} />
         case 'contact':
             return <Phone className='w-full h-auto' strokeWidth={1.5} />
-        case 'Interns':
+        case 'Experience':
             return <BriefcaseIcon className='w-full h-auto' strokeWidth={1.5} />
         case 'certifications':
             return <ShieldCheck className='w-full h-auto' strokeWidth={1.5} />

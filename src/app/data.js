@@ -61,10 +61,10 @@ export const CertificationsData = [
 export const InternshipsData = [
   {
     id: 1,
-    name: "EcoTracker",
-    description: "Track your carbon footprint",
-    date: "2022-08-15",
-    demoLink: "https://ecotracker.example.com",
+    name: "AI/ML engineer @ FeynnLabsServies",
+    description: "Learned applications of ML.",
+    date: "2024-02-25",
+    demoLink: "/resume.pdf",
   },
 ];
 
@@ -146,7 +146,7 @@ export const CircularBtnList = [
   { label: "Home", link: "/", icon: "home", newTab: false },
   { label: "About", link: "/about", icon: "about", newTab: false },
   { label: "Projects", link: "/projects", icon: "projects", newTab: false },
-  {label: "Internships", link: "/internships", icon: "Interns", newTab: false},
+  {label: "Experience", link: "/experience", icon: "Experience", newTab: false},
   {label: "Certifications", link: "/certifications", icon: "certifications", newTab: false},
   {
     label: "Resume",
