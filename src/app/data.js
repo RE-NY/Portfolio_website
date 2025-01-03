@@ -64,7 +64,7 @@ export const InternshipsData = [
     name: "AI/ML engineer @ FeynnLabsServies",
     description: "Learned applications of ML.",
     date: "2024-02-25",
-    demoLink: "/resume.pdf",
+    demoLink: "/InternCertificate.pdf",
   },
 ];
 
