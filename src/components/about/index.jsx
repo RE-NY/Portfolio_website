@@ -11,18 +11,21 @@ const AboutDetails = () => {
             Architect of Intelligent Systems
           </h2>
           <p className="font-light  text-xs sm:text-sm md:text-base">
-          My journey in AI and machine learning is fueled by a powerful toolkit of algorithms and models, 
-          with Python forming the backbone of my creations. I harness frameworks like TensorFlow and PyTorch 
-          with precision, building intelligent systems that transform data into meaningful insights. 
-          The cutting-edge advancements in deep learning empower me to develop accurate and scalable 
-          solutions, while my problem-solving approach ensures each project is innovative and 
-          impactful. Join me as I continue to explore new techniques and technologies to push the boundaries 
-          of AI and shape the future of intelligent systems.
+          My journey in AI and machine learning is fueled by a powerful toolkit of algorithms and 
+          models, with Python forming the backbone of my creations. I harness frameworks like 
+          TensorFlow and PyTorch with precision, building intelligent systems that transform data 
+          into meaningful insights. The cutting-edge advancements in deep learning empower me to 
+          develop accurate and scalable solutions, while my problem-solving approach ensures each 
+          project is innovative and impactful. 
+          As a Kaggle expert, I consistently apply my skills 
+          to solve complex real-world problems, demonstrating expertise in competitive machine 
+          learning and data science challenges. Join me as I continue to explore new techniques 
+          and technologies to push the boundaries of AI and shape the future of intelligent systems.
           </p>
         </ItemLayout>
         <ItemLayout className={"col-span-full row-span-2 xs:col-span-6 lg:col-span-4 text-accent"}>
           <p className="font-semibold w-full text-left text-2xl sm:text-5xl">
-            1+ <sub className="font-semibold text-base">years of experience</sub>
+            1+ <sub className="font-semibold text-base">years in programming</sub>
           </p>
         </ItemLayout>
         <ItemLayout className={"col-span-4 !p-0"}> 

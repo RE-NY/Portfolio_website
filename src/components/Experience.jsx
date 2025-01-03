@@ -68,7 +68,7 @@ const Experience = () => {
         {/* <p className="sm:text-[18px] text-[14px] text-secondary uppercase tracking-wider text-center">
           What I have done so far
         </p> */}
-        <h2 className="text-[#915eff] font-black md:text-[60px] sm:text-[50px] xs:text-[40px] text-[30px] text-center">
+        <h2 className="text-[#915eff] font-black md:text-[72px] sm:text-[50px] xs:text-[40px] text-[30px] text-center">
           Projects.
         </h2>
       </motion.div>

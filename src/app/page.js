@@ -56,7 +56,7 @@ export default function Home() {
             Welcome to my portfolio! I'm passionate about leveraging<br></br> 
             AI, machine learning, and deep learning to solve complex<br></br> 
             problems, while also bringing a solid foundation in<br></br> 
-            software engineering and front-end development.<br></br> 
+            software engineering.I am also a Kaggle expert.<br></br> 
             Explore my projects to discover how I merge<br></br> 
             technology to deliver impactful solutions.
             </p>
