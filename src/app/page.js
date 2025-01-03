@@ -49,7 +49,8 @@ export default function Home() {
               <h3>
                 <span className="word text-[#915eff] text-[32px]">DeepLearning&nbsp;Enthusiast</span>
                 <span className="word text-[#915eff] text-[32px]">AI/ML&nbsp;Enthusiast</span>
-                <span className="word text-[#915eff] text-[32px]">FrontEnd&nbsp;Developer</span>
+                <span className="word text-[#915eff] text-[32px]">Software&nbsp;Developer</span>
+                <span className="word text-[#915eff] text-[32px]">Kaggle&nbsp;Expert</span>
               </h3>
             </div>
             <p className='{`${styles.heroSubText} mt-2 text-white`}'>
